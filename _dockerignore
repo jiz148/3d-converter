@@ -1,0 +1,15 @@
+# test & results
+
+*.vtk
+*.dat
+
+# git
+.git
+.gitignore
+
+# docker
+Dockerfile*
+docker-compose*
+
+# virtual env
+.venv

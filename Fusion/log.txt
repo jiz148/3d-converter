@@ -1,0 +1,126 @@
+17:04:40
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 802.891 ty: 182.166 tz: 81.7066
+trackerData tx: 802.891 ty: 182.166 tz: 81.7066
+17:04:40
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 803.225 ty: 183.84 tz: 82.3764
+trackerData tx: 803.225 ty: 183.84 tz: 82.3764
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 799.207 ty: 196.9 tz: 88.6271
+trackerData tx: 799.207 ty: 196.9 tz: 88.6272
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 801.105 ty: 189.756 tz: 86.5063
+trackerData tx: 801.105 ty: 189.756 tz: 86.5063
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 800.546 ty: 164.529 tz: 78.6929
+trackerData tx: 800.547 ty: 164.529 tz: 78.6929
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 795.189 ty: 182.166 tz: 80.2556
+trackerData tx: 795.189 ty: 182.166 tz: 80.2556
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 794.296 ty: 197.234 tz: 83.0461
+trackerData tx: 794.296 ty: 197.234 tz: 83.0461
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 796.975 ty: 160.176 tz: 82.2647
+trackerData tx: 796.975 ty: 160.176 tz: 82.2647
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 797.868 ty: 145.219 tz: 84.9437
+trackerData tx: 797.868 ty: 145.219 tz: 84.9436
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 794.519 ty: 176.361 tz: 87.3993
+trackerData tx: 794.519 ty: 176.361 tz: 87.3993
+17:04:41
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 792.845 ty: 198.574 tz: 89.6317
+trackerData tx: 792.845 ty: 198.574 tz: 89.6317
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 792.175 ty: 203.82 tz: 91.4177
+trackerData tx: 792.175 ty: 203.82 tz: 91.4177
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 793.068 ty: 202.481 tz: 92.0874
+trackerData tx: 793.068 ty: 202.481 tz: 92.0874
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 793.514 ty: 201.588 tz: 91.4177
+trackerData tx: 793.514 ty: 201.588 tz: 91.4177
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 794.184 ty: 200.695 tz: 90.9712
+trackerData tx: 794.184 ty: 200.695 tz: 90.9712
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 794.742 ty: 195.225 tz: 88.5155
+trackerData tx: 794.742 ty: 195.225 tz: 88.5155
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 793.738 ty: 192.435 tz: 87.9574
+trackerData tx: 793.738 ty: 192.435 tz: 87.9574
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 794.854 ty: 190.426 tz: 86.5063
+trackerData tx: 794.854 ty: 190.426 tz: 86.5063
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 795.189 ty: 191.765 tz: 88.2923
+trackerData tx: 795.189 ty: 191.765 tz: 88.2923
+17:04:42
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 795.189 ty: 192.323 tz: 88.7388
+trackerData tx: 795.189 ty: 192.323 tz: 88.7388
+17:04:43
+Sensor ID: 2
+GetAsynchronousRecord() return value: 0
+GetSensorStatus() return value: 0
+tracker position tx: 795.412 ty: 191.877 tz: 88.4039
+trackerData tx: 795.412 ty: 191.877 tz: 88.4039
